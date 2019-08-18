@@ -1,0 +1,22 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    background-color: #eee;
+}
+
+#img-div {
+    background: white;
+}
+
+ul {}
+
+li {
+    list-style-type: none;
+    text-align: left;
+    margin: 10px;
+}
+
+h3 {
+    text-align: start;
+    padding-left: 50px;
+}
